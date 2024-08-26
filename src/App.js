@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - live demo update for Gary and Jason
+          HW
         </a>
       </header>
     </div>
